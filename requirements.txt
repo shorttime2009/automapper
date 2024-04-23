@@ -1,0 +1,7 @@
+tkinter
+random
+os
+threading
+webbrowser
+pyaudio
+wave
