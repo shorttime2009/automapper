@@ -16,7 +16,7 @@ wait for it to install, u can install FFMPEG while the requirements download, ch
 
 tutorial video for ffmpeg installation : https://www.youtube.com/watch?v=EyIIvctDhYc
 
-now, go back on your terminal and write "python randomapV4.py"
+now, go back on your terminal and write ``python randomapV4.py``
 
 and enjoy ! :D
 
