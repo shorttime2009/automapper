@@ -1,6 +1,3 @@
 tk
-os
-threading
-webbrowser
 pyaudio
 wave
