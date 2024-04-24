@@ -1,5 +1,4 @@
 tk
-random
 os
 threading
 webbrowser
