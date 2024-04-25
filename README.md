@@ -7,7 +7,7 @@ first of all, lets start with basics, download the automapper by clicking on "so
 
 now, extract the file downloaded
 
-download python from this website : python.org
+download python from this microsoft store (microsoft store is better for this program)
 then, type "cmd" in the path text bar
 
 then, type ``pip install -r requirements.txt``
