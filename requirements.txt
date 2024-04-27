@@ -4,3 +4,4 @@ pyaudio
 tk
 wave
 webbrowser
+threading
