@@ -3,5 +3,4 @@ numpy
 pyaudio
 tk
 wave
-webbrowser
 threading
