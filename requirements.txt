@@ -1,5 +1,5 @@
 librosa
-numpy
+numpy==1.26.3
 pyaudio
 tk
 wave
